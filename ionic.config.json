@@ -1,0 +1,7 @@
+{
+  "name": "VitrineVirtualMercadoMAF",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
